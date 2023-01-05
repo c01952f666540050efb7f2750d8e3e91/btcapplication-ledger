@@ -1,0 +1,11 @@
+{
+  "name": "btcapplication-ledger",
+  "version": "0.0.1",
+  "description": "btc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "text.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
